@@ -4,9 +4,3 @@ third_party
 sparks
 tools
 *.zip
-/.buildpath
-/.project
-/.settings
-/build.properties
-/build.xml
-/.externalToolBuilders
